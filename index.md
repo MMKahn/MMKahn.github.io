@@ -1,6 +1,14 @@
 ![](https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2019/03/Data-Science-vs.-Big-Data-vs.jpg)
 
-Thank you for visiting my Fall 2022 blog showcasing posts and completed works from ST 558: Data Science for Statisticians at North Carolina State University.
+<p align="center">
+ Thank you for visiting my Fall 2022 blog 
+<p align="center">
+  showcasing posts and completed works from 
+<p align="center">
+  ST 558: Data Science for Statisticians at 
+<p align="center">
+  North Carolina State University.
+
 # ST 558: Data Science for Statisticians 
 ## Course Description
 This course concentrates on:  
