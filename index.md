@@ -1,7 +1,13 @@
+![](https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2019/03/Data-Science-vs.-Big-Data-vs.jpg)
+
 Thank you for visiting my Fall 2022 blog showcasing posts and completed works from ST 558: Data Science for Statisticians at North Carolina State University.
 # ST 558: Data Science for Statisticians 
 ## Course Description
-This course concentrates on: (1) methods for reading, manipulating, and combining data sources including databases; (2) custom functions, visualizations, and summaries; (3) common analyses done by data scientists; and (4) methods for communicating results including dashboards.
+This course concentrates on:  
+1. methods for reading, manipulating, and combining data sources including databases;  
+2. custom functions, visualizations, and summaries;  
+3. common analyses done by data scientists; and  
+4. methods for communicating results including dashboards.
 
 # Melanie M Kahn
 ## About Me
@@ -11,3 +17,5 @@ I am a graduate assistant at North Carolina State University and a student in th
 - Master of International Studies Program
 - mmkahn@ncsu.edu
 - (847)212-6210
+
+![](https://www.iec.org/portals/51/NcState.jpg)
