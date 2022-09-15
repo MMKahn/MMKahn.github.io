@@ -9,3 +9,5 @@ There were many lessons (learned the hard way) during the completion of this pro
 Nearing the end of the project, I found a smaller issue with my combine function.  In the final section with four new data sets, the first two times my custom combine function ran, it correctly merged the data sets.  However, when trying to combine the results from the first two functions, it failed, producing an empty tibble. When writing my combine function, I had originally assigned the resulting tibbles new names.  Since the function requires a particular variable name, I needed to assign the new tibbles the same name as before.  To avoid this error in the future, I will write my functions with consistent variables instead of altering them.  
 
 Overall, this was a difficult project, but its execution provided many teachable moments that will continue to benefit my programming skills.  There is certainly nothing more satisfying than knitting the final output and feeling the immense sense of accomplishment and pride in one's own work.
+
+Here is a link to my [final html output for Project 1](https://mmkahn.github.io/project1.html) for your review.
